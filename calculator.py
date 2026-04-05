@@ -10,4 +10,4 @@ if n2 != 0:
 else:
     print('Cannot divide by zero.')
 
-print(f'The result of raising {n1} to {n2} is {n1 * n2}.')
+print(f'The result of raising {n1} to {n2} is {n1 ** n2}.')
