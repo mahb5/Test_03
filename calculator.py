@@ -16,3 +16,8 @@ if n2 != 0:
     print(f'The result of dividing {n1} by {n2} using integer division is {n1 // n2}.')
 else:
     print("Cannot divide by zero.")
+
+if n2 != 0:
+    print(f'The remainder of dividing {n1} by {n2} is {n1 % n2}.')
+else:
+    print("Cannot divide by zero.")
